@@ -527,6 +527,10 @@ i {
     z-index: 5;
 }
 
+#mobile-navbar.menu-active {
+    left: 0;
+  }
+
 #mobile-navbar a {
     color: var(--primary-text-color);
     font-size: 2rem;
